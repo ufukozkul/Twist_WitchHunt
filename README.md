@@ -11,7 +11,7 @@ In every game 1 of the 6 characters choosen as a witch. Also every character has
  Every movement take players time. Initial time is 300. If time decrease 0 or lower, player lost the game.
  
  ## Future improvements
-  [ ] GUI (Graphical User Interface) for the game
-  [ ] Random events
-  [ ] Text to speech engine
+ - [ ] GUI (Graphical User Interface) for the game
+ - [ ] Random events
+ - [ ] Text to speech engine
  
