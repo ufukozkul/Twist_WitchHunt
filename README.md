@@ -12,7 +12,6 @@ In every game 1 of the 6 characters choosen as a witch. Also every character has
  
  ## Future improvements
  - [ ] GUI (Graphical User Interface) for the game
- - [ ] Random events
- - [ ] Text to speech engine
- 
- 
+ - [ ] Random Events
+ - [ ] Text to speech engine 
+ - [ ] Visual Animations
