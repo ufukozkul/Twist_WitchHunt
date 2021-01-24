@@ -5,10 +5,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="People"/>
 	<classpathentry kind="src" path="Items"/>
-	<classpathentry kind="src" path="Room"/>
 	<classpathentry kind="src" path="RoomSquare"/>
+	<classpathentry kind="src" path="Room"/>
+	<classpathentry kind="src" path="People"/>
 	<classpathentry kind="src" path="Functions"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
