@@ -1,4 +1,10 @@
 # Twist_WitchHunt
+## Group Members
+```
+Ufuk Özkul 
+Gökmen Çağlar
+Seden Dora Açık 
+```
 ### Tedu game project
 In game, there are 6 type of characters such as thief, tailor, noble, alchemist, judge, chef. 
 In every game 1 of the 6 characters choosen as a witch. Also every character has their own room.
